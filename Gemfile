@@ -33,10 +33,9 @@ gem 'spring',        group: :development
 
 gem 'pg'
 
-gem "therubyracer"
-gem "less-rails"
-gem "twitter-bootstrap-rails"
-
+gem 'less-rails'
+gem 'therubyracer'
+gem 'font-awesome-less'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
